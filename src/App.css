@@ -12,9 +12,12 @@ article {
 
 img {
   width: 15vh;
+  margin-left: 8px;
+  border-radius: 4px;
 }
 
-.team {
+.team,
+.process {
   border: 1px solid black;
   border-radius: 4px;
   padding: 5px;
