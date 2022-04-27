@@ -40,11 +40,11 @@ function App() {
 
       <h2>Varför Scrum?</h2>
       <p>Många av oss har arbetat enligt den “gamla skolan” där man har ett projekt, en plan och en budget som skall följas efter en specifik deadline. Genom processen märker man ofta att tidsramen blir stram, budgeten ökar och effektiviteten stannar upp. Det finns inget tillfälle för förändring eller utveckling av projektet.
-        Med hjälp av vårt så kallade “Manifest för agil systemutveckling” kom man fram till att man utvecklar bättre programvara genom att själv arbeta samt hjälpa andra arbeta, för att få en effektivare utveckling.
-        Processer och verktyg prioriteras efter individer och interaktioner
-        Omfattande dokumentation prioriteras efter fungerande programvara
-        Kontraktsförhandling prioriteras efter kundsamarbete
-        Följa planen prioriteras efter anpassning till förändring. </p>
+        Med hjälp av vårt så kallade “Manifest för agil systemutveckling” kom man fram till att man utvecklar bättre programvara genom att själv arbeta samt hjälpa andra arbeta, för att få en effektivare utveckling.</p>
+      <p>Processer och verktyg prioriteras efter individer och interaktioner.</p>
+      <p>Omfattande dokumentation prioriteras efter fungerande programvara.</p>
+      <p>Kontraktsförhandling prioriteras efter kundsamarbete.</p>
+      <p>Följa planen prioriteras efter anpassning till förändring.</p>
     </section>
   );
 }
